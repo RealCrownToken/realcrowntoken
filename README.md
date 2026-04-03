@@ -74,6 +74,14 @@ See the following files for more information.
 
 ---
 
+## Whitepaper
+
+Read the official whitepaper:
+
+[RealCrown Whitepaper](RealCrown_Whitepaper.pdf)
+
+---
+
 ## Security Warning
 
 Only trust links and contract addresses listed in this GitHub repository and official website.
