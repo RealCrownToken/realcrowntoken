@@ -1,3 +1,5 @@
+![RealCrown Logo](assets/rc-coin.jpeg)
+
 # RealCrown Token (RC)
 
 Official GitHub repository for **RealCrown Token (RC)** on the Polygon Network.
